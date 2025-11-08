@@ -53,9 +53,9 @@ git clone https://github.com/MOHAsbissi01/Service-Management-Platform-SpringBoot
 ```
 cd Service-Management-Platform-SpringBoot
 ```
-# Build and run
+# Build and run  for windows
 ```
-mvn spring-boot:run
+./mvnw spring-boot:run
 ```
 ---
 
